@@ -1,0 +1,3 @@
+[build]
+  publish = "public" # thư mục chứa HTML/CSS/JS nếu có
+  functions = "functions"
